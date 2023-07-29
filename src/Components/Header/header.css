@@ -1,0 +1,31 @@
+.navbar {
+    min-height: 12vh !important;
+    background-color: rgb(105, 107, 219);
+    box-shadow: 2px 2px grey;
+}
+
+.navbar-brand {
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
+.navbar-brand:hover {
+    border: 2px solid white !important;
+    box-shadow: 2px 2px rgb(217, 213, 213);
+
+}
+
+.nav-item {
+    margin-left: 5%;
+    font-weight: bold;
+    font-size: 1.15rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.nav-item:hover {
+    box-shadow: 2px 2px white;
+}
+
+.nav-link {
+    text-shadow: 2px 2px 5px whitesmoke;
+}
